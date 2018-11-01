@@ -100,7 +100,7 @@
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-eslint": "^9.0.0",
-    "babel-preset-react-app": "^3.1.2",
+    "babel-preset-react-app": "^6.1.0",
     "babel-register": "^6.26.0",
     "chai": "^4.1.2",
     "enzyme": "^3.5.0",
