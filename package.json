@@ -119,7 +119,7 @@
     "mocha": "^5.2.0",
     "nyc": "^12.0.2",
     "react-app-rewire-eslint": "^0.2.3",
-    "react-app-rewired": "^1.6.2",
+    "react-app-rewired": "^2.0.2",
     "sinon": "^6.1.3",
     "standard-version": "^4.4.0"
   },
