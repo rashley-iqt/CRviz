@@ -1,6 +1,15 @@
 {
-  "main.css": "static/css/main.acb5ad16.css",
-  "main.css.map": "static/css/main.acb5ad16.css.map",
-  "main.js": "static/js/main.bd58188b.js",
-  "main.js.map": "static/js/main.bd58188b.js.map"
+  "main.css": "/CRviz-experimental/static/css/main.edec3465.chunk.css",
+  "main.js": "/CRviz-experimental/static/js/main.6346a36e.chunk.js",
+  "main.js.map": "/CRviz-experimental/static/js/main.6346a36e.chunk.js.map",
+  "static/css/1.8bac258d.chunk.css": "/CRviz-experimental/static/css/1.8bac258d.chunk.css",
+  "static/js/1.86cd3e6f.chunk.js": "/CRviz-experimental/static/js/1.86cd3e6f.chunk.js",
+  "static/js/1.86cd3e6f.chunk.js.map": "/CRviz-experimental/static/js/1.86cd3e6f.chunk.js.map",
+  "runtime~main.js": "/CRviz-experimental/static/js/runtime~main.577c421b.js",
+  "runtime~main.js.map": "/CRviz-experimental/static/js/runtime~main.577c421b.js.map",
+  "static/css/main.edec3465.chunk.css.map": "/CRviz-experimental/static/css/main.edec3465.chunk.css.map",
+  "static/css/1.8bac258d.chunk.css.map": "/CRviz-experimental/static/css/1.8bac258d.chunk.css.map",
+  "index.html": "/CRviz-experimental/index.html",
+  "precache-manifest.4df4494399b32e55f3956d7bda336d71.js": "/CRviz-experimental/precache-manifest.4df4494399b32e55f3956d7bda336d71.js",
+  "service-worker.js": "/CRviz-experimental/service-worker.js"
 }
