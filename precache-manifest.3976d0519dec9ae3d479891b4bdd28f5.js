@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "99aaa81f3407f95e03d6",
-    "url": "/CRviz/static/css/main.2853fd80.chunk.css"
+    "revision": "feb3e0e9975df4051dda",
+    "url": "/CRviz/static/css/main.e0f33404.chunk.css"
   },
   {
-    "revision": "99aaa81f3407f95e03d6",
-    "url": "/CRviz/static/js/main.99aaa81f.chunk.js"
+    "revision": "feb3e0e9975df4051dda",
+    "url": "/CRviz/static/js/main.feb3e0e9.chunk.js"
   },
   {
     "revision": "e750e7638b1949e8278c",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/CRviz/static/js/runtime~main.76bbc707.js"
   },
   {
-    "revision": "c2631c6891510eb890504a43308afe9a",
+    "revision": "136f6b24c8548b6de41874cba12e8418",
     "url": "/CRviz/index.html"
   }
 ];
